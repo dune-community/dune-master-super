@@ -76,3 +76,39 @@
 [submodule "dune-xt-data"]
 	path = dune-xt-data
 	url = https://github.com/dune-community/dune-xt-data
+[submodule "dune-polygongrid"]
+	path = dune-polygongrid
+	url = https://gitlab.dune-project.org/martin.nolte/dune-polygongrid.git
+[submodule "dune-foamgrid"]
+	path = dune-foamgrid
+	url = https://gitlab.dune-project.org/extensions/dune-foamgrid
+[submodule "dune-spgrid"]
+	path = dune-spgrid
+	url = https://gitlab.dune-project.org/extensions/dune-spgrid
+[submodule "dune-vectorclass"]
+	path = dune-vectorclass
+	url = https://gitlab.dune-project.org/extensions/dune-vectorclass
+[submodule "dune-acfem"]
+	path = dune-acfem
+	url = https://gitlab.dune-project.org/dune-fem/dune-acfem
+[submodule "dune-opcounter"]
+	path = dune-opcounter
+	url = https://gitlab.dune-project.org/dominic/dune-opcounter
+[submodule "dune-composites"]
+	path = dune-composites
+	url = https://gitlab.dune-project.org/anne.reinarz/dune-composites
+[submodule "dune-fem-dg"]
+	path = dune-fem-dg
+	url = https://gitlab.dune-project.org/dune-fem/dune-fem-dg
+[submodule "dune-dpg"]
+	path = dune-dpg
+	url = https://gitlab.dune-project.org/felix.gruber/dune-dpg
+[submodule "dune-fempy"]
+	path = dune-fempy
+	url = https://gitlab.dune-project.org/dune-fem/dune-fempy
+[submodule "dune-fem-bem-toolbox"]
+	path = dune-fem-bem-toolbox
+	url = https://gitlab.dune-project.org/andreas.dedner/dune-fem-bem-toolbox
+[submodule "dune-subgrid"]
+	path = dune-subgrid
+	url = https://gitlab.dune-project.org/felix.gruber/dune-subgrid
