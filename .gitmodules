@@ -42,7 +42,7 @@
 	url = https://github.com/wwu-numerik/scripts.git
 [submodule "dune-python"]
 	path = dune-python
-	url = https://github.com/dune-mirrors/dune-python.git
+	url = https://gitlab.dune-project.org/staging/dune-python
 [submodule "dune-testtools"]
 	path = dune-testtools
 	url = https://github.com/dune-community/dune-testtools.git
